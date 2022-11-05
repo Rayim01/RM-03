@@ -1,2 +1,2 @@
 # RM-01
-cd rayim01
+cd rm-01
